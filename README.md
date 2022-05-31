@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">
+  Hi there, I'm Mirasaki <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=prompt&size=25&duration=3000&lines=From+hobbyist+to+full-stack"></a>
+</p>
 
-<!--
-**Mirasaki/mirasaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :sassy_man:  About me
+- &#x1f1f3;&#x1f1f1;  I was born in the Netherlands, February 1998
+- ☕ is the best thing ever made
+- 🍵 is fine too, I guess
+- 🤓 I'm a tech enthusiast and a total nerd
+- 📖 I've got a dedicated book-display on my desk of books I know I will never read
+- 🎵 My favorite band is Nightwish, and I listen to music all the time
+- 🎸 Playing Clone Hero - a competitive rhythm game for the Desktop - is absolutely amazing
+- 🧙 the Lord of the Rings, the Hobbit, and Game of Thrones. Enough said
+- 🔊 I waste too much of my time on Discord with friends
 
-Here are some ideas to get you started:
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mirasaki&theme=github-dark&hide_border=true&background=DD272702" alt="Mirasaki Github Stats" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Github Stats
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mirasaki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mirasaki&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+</p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mirasaki&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
+ <a href="https://github.com/Mirasaki"><img alt="Mirasaki's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mirasaki&custom_title=Mirasaki's%20Contribution%20Graph&theme=react-dark" /></a>
