@@ -16,12 +16,6 @@
 - 🧙 the Lord of the Rings, the Hobbit, and Game of Thrones. Enough said
 - 🔊 I waste too much of my time on Discord with friends
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mirasaki&theme=github-dark&hide_border=true&background=DD272702" alt="Mirasaki Github Stats" /></p>
-
 ## 📊 Github Stats
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mirasaki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mirasaki&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-</p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mirasaki&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
- <a href="https://github.com/Mirasaki"><img alt="Mirasaki's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mirasaki&custom_title=Mirasaki's%20Contribution%20Graph&theme=react-dark" /></a>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mirasaki&theme=github-dark&hide_border=true&background=DD272702" alt="Mirasaki Github Stats" /></p>
+<a href="https://github.com/Mirasaki"><img alt="Mirasaki's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mirasaki&custom_title=Mirasaki's%20Contribution%20Graph&theme=react-dark" /></a>
