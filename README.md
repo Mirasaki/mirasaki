@@ -18,4 +18,3 @@
 
 ## 📊 Github Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mirasaki&theme=github-dark&hide_border=true&background=DD272702" alt="Mirasaki Github Stats" /></p>
-<a href="https://github.com/Mirasaki"><img alt="Mirasaki's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mirasaki&custom_title=Mirasaki's%20Contribution%20Graph&theme=react-dark" /></a>
