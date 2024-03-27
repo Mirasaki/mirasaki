@@ -13,8 +13,7 @@
 - 📖 I've got a dedicated book-display on my desk of books I know I will never read
 - 🎵 My favorite band is Nightwish, and I listen to music all the time
 - 🎸 Playing Clone Hero - a competitive rhythm game for the Desktop - is absolutely amazing
-- 🧙 the Lord of the Rings, the Hobbit, and Game of Thrones. Enough said
-- 🔊 I waste too much of my time on Discord with friends
+- 🧙 The Lord of the Rings, the Hobbit, and Game of Thrones. Enough said
 
 ## 📊 Github Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mirasaki&theme=github-dark&hide_border=true&background=DD272702" alt="Mirasaki Github Stats" /></p>
