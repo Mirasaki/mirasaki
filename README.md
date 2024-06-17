@@ -9,7 +9,6 @@
 - &#x1f1f3;&#x1f1f1;  I was born in the Netherlands, February 1998
 - ☕ is the best thing ever made
 - 🍵 is fine too, I guess
-- 🤓 I'm a tech enthusiast and a total nerd
 - 📖 I've got a dedicated book-display on my desk of books I know I will never read
 - 🎵 My favorite band is Nightwish, and I listen to music all the time
 - 🎸 Playing Clone Hero - a competitive rhythm game for the Desktop - is absolutely amazing
