@@ -15,10 +15,5 @@
 - 🧙 The Lord of the Rings, the Hobbit, and Game of Thrones. Enough said
 
 ## 📊 Github Stats
-<div align="center">
-  
-  ![Mirasaki's Stats](https://github-readme-stats.vercel.app/api?username=Mirasaki&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
-  ![Mirasaki's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mirasaki&theme=vue-dark&hide_border=false)
-
-</p>
+![Mirasaki's Stats](https://github-readme-stats.vercel.app/api?username=Mirasaki&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
